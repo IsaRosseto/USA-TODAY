@@ -1,0 +1,216 @@
+* 
+{ /* Reset de CSS e é utilizada para evitar problemas de cross browser*/
+
+    margin: 0;
+    
+    padding: 0;
+    
+    box-sizing: border-box;
+
+    }
+    
+.sobre {
+    display:inline-flex;
+    align-items: center;
+}
+
+.sobre img {
+    margin-left: 20px;
+    width: 30%;
+}
+
+.sobreusa {
+    font-size: 20px;
+    margin-left: 80px;
+    margin-right: 40px;
+    margin-bottom: 40px;
+}
+
+.primeira {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 40px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 8px #888888;
+  }
+             
+
+
+.segunda {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 80px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 8px #888888;
+}
+
+.terceira {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 80px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 8px #888888;
+}
+
+.quarta {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 80px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 8px #888888;
+}
+
+.quinta {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 80px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 8px #888888;
+}
+
+.sexta {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 80px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 8px #888888;
+}
+
+.primeira p {
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+    width: 100%;
+}
+
+.segunda p {
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+    width: 100%;
+}
+
+.terceira p {
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+    width: 100%;
+}
+
+.quarta p {
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+    width: 100%;
+}
+
+.quinta p {
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+    width: 100%;
+}
+
+.sexta p {
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+    width: 100%;
+}
+
+.primeira video {
+    width: 100%;
+}
+.segunda video {
+    width: 100%;
+}
+
+.terceira video {
+    width: 100%;
+}
+
+.quarta video {
+    width: 100%;
+}
+
+.quinta video {
+    width: 100%;
+}
+
+.sexta video {
+    width: 100%;
+}
+
+h1 {
+    width: 100%;
+    text-align: center;
+    text-decoration: underline rgb(2, 145, 255) ;
+}
+
+h2{
+    text-decoration: underline rgb(2, 145, 255);
+    font-size: 32px;
+    margin-left: 20px;
+}
+
+h3 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    width: 80%;
+    font-size: 22px;
+
+}
+
+div p {
+    width: 80%;
+    font-size: 18px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    
+}
+
+div  {
+    padding-top: 0px;
+    padding-bottom: 10px;
+    margin-top: 20px;
+    margin-left: 20px;
+
+}
+
+header {
+    width: 100%;
+    height: 40px;
+    background-color: rgb(2, 145, 255);
+    text-align: center;
+   margin-top: 0;
+   
+}
+
+header p{
+    font-size: 22px;
+    padding-top: 7px;
+    color: white;
+}
+
+footer {
+    width: 100%;
+    height: 40px;
+    background-color: rgb(2, 145, 255);
+    text-align: center;
+   margin-top: 20px;
+}
+
+footer p {
+    font-size: 22px;
+    padding-top: 7px;
+    color: white;
+}
+
+span {
+    color: rgb(2, 145, 255);
+}
